@@ -34,7 +34,7 @@
     },
     "applications": {
   		"gecko": {
-    		"id": "lrs@thomashillyer.com"
+    		"id": "osdnotif@thomashillyer.com"
   		}
 	},
     "permissions": [
